@@ -1,7 +1,11 @@
 div{
-  background-color: red;
+  background-color: rgba(0, 76, 255, 0.792);
   color: white;
   font-size: 32px;
   text-align: center;
   font-weight: bold;
+}
+.home-button {
+  background-color: rgba(231, 109, 188, 0.632);
+  font-family: Verdana,'DejaVu Sans','sans-serif';
 }
